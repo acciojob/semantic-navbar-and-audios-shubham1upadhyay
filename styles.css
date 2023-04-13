@@ -1,6 +1,9 @@
 body{
 	background-color:blanchedalmond;
 }
+.flx{
+		display:flex;
+}
 .nav{
 	background-color:black;
 	width:100%;
